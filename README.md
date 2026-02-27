@@ -1,6 +1,9 @@
 # Data_types
-this repository is showing how may types of data types are  and how this can be printed in the main body with the printf();
+this repository is showing how may types of data types are  and how this can be printed in the main body with the printf();\n
+
+
 **DATE VARIABLE++
+
 
 in C ther are 4 types or Data tyes
 
