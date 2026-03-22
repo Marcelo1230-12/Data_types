@@ -18,6 +18,7 @@ char-------->%c-----> to print----> 1 bytes ==== this can be use with %d just fo
 sizeof() is to check the zide of bytes of each datetyes.
 
 
+
  each date type to be printed has a diffrent way yo printed. and also they have
 a running bytes
 
